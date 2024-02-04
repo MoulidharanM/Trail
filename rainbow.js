@@ -6,7 +6,7 @@ module.exports={
         browser.pause(5000);
         browser.click(".blueFill.rbButtonComponent > .c-button__label");
         browser.pause(5000);
-        browser.setValue("#authPwd","Dharan@2000");
+        browser.setValue("#authPwd","passwd");
         browser.pause(5000);
         browser.click(".blueFill.rbButtonComponent > .c-button__label");
         browser.pause(20000);
